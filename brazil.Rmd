@@ -438,7 +438,7 @@ background-size: contain
 # The perfect storm part 2: *Lava Jato* 
 
 .pull-left[
-* **The _Operation Car Wash (Lava Jato)_** was a massive corruption investigation against political corruption in Brazil
+* **The _Operation Car Wash (Lava Jato)_** was a massive investigation against political corruption in Brazil
 
 * Started investigating money laundering in auto-service stations
 
