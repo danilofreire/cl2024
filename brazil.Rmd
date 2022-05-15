@@ -2,7 +2,7 @@
 title: "Brazil: Weak Parties but Strong Governance?"
 subtitle: ""
 author: "Danilo Freire<br><br>"
-date: '<font size="5">18<sup>th</sup> May 2022</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/cl2022" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2022</font></a>'
+date: '<font size="5">18<sup>th</sup> May 2022<br>Code: 187638</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/cl2022" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2022</font></a>'
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
