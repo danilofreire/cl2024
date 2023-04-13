@@ -2,7 +2,7 @@
 title: "Brazil: Weak Parties but Strong Governance?"
 subtitle: ""
 author: "Danilo Freire<br><br>"
-date: '<font size="5">18<sup>th</sup> May 2022<br>Code: 187638</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/cl2022" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2022</font></a>'
+date: '<font size="5">18<sup>th</sup> April 2023<br>Code: 493641</font><br><br><br> <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> <a href="http://github.com/danilofreire/cl2023" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2023</font></a>' 
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -84,21 +84,17 @@ style_mono_accent(
 
 * First half of the lecture:
 
-  - A brief overview of the Brazilian political system: Fragmented parties,
-    open-list proportional representation, and strong presidential rule ([Figueiredo and Limongi,
-  2000](https://www.jstor.org/stable/422395))
+  - A brief overview of the Brazilian political system: Fragmented parties, open-list proportional representation, and strong presidential rule ([Figueiredo and Limongi, 2000](https://www.jstor.org/stable/422395))
   
   - How Brazilian parties became more ideological over time ([Hagopian, Gervasoni and Moraes, 2008](https://doi.org/10.1177%2F0010414008325572))
 
-  - Brazil's new populist right: The rise (and fall?) of Jair Bolsonaro
-    ([Hunter and Power, 2019](https://doi.org/10.1353/jod.2019.0005))
+  - Brazil's new populist right: The rise (and fall?) of Jair Bolsonaro ([Hunter and Power, 2019](https://doi.org/10.1353/jod.2019.0005))
 
 --
 
 * Second half of the lecture:
 
-  - Our new research on legislature size and welfare provision in Brazil
-    ([Mignozzetti, Cepaluni and Freire, 2021](https://github.com/umbertomig/legislature-size-welfare))
+  - Our new research on legislature size and welfare provision in Brazil ([Mignozzetti, Cepaluni and Freire, 2022](https://github.com/umbertomig/legislature-size-welfare))
 
   - Questions
 
@@ -493,17 +489,35 @@ background-size: cover
 
 * A largely independent candidate, Bolsonaro has not been able to form a solid coalition, what shows that parties remain crucial for governance
 
-* Population has also punished him for his handling of the pandemic: 20% of approval
+* Population also punished him for his handling of the pandemic: 20% of approval
 
-* Two plausible scenarios: 1) more competent conservative president; 2) Lula for the third time
+* Eventually, Lula was elected for a third term by a very tight margin (~1.5%)
+
+* However, _bolsonarismo_ has outlasted Bolsonaro
 ]
 
---
+---
 
-.large[
-* However, _bolsonarismo_ will likely outlast Bolsonaro's term
+# Lula's third term
+
+.pull-left[
+* **Improvements:**
+
+  - New plan of investment and infrastructure
+  - Social reforms: more diversity in politics
+  - New social movements: LGBT+, black movements
+  - Good approval ratings for the president
+
+* **Ongoing problems:**
+
+  - Fierce political opposition: Bolsonarismo
+  - Extreme polarization
+  - Economic populism
+  - Controversial foreign policy
+  - Shadow of corruption scandals
 ]
 
+.pull-right[![President Lula during his inauguration](images/lula-posse.jpg)]
 ---
 
 class: center, middle, inverse
@@ -518,8 +532,8 @@ class: left, middle, inverse
 
 <br>
 
-#### Umberto Mignozzetti (Emory)
-#### Gabriel Cepaluni (São Paulo State)
+#### Umberto Mignozzetti (University of Califonia, San Diego)
+#### Gabriel Cepaluni (Lincoln)
 #### Danilo Freire (Lincoln)
 
 ---
@@ -617,34 +631,6 @@ knitr::include_graphics("images/mostexpensive.png")
   - More representation, better service provision
 
 * Empirical findings: mixed evidence (Freire et al., 2021)
-
----
-
-# Our theory: bargaining costs and partisanship
-
-* We propose a **legislature bargaining** game:
-
-* The municipality has $R$ resources, and it is comprised of a mayor (Executive) and a city council (Legislative)
-* The mayor and the city council bargain over public goods provision and rents
-* The mayor's proposal has:
-  - A public goods provision level ( $g$ )
-  - Rents for the councillors ( $\textbf{x}$ ) and for the mayor ( $r$ )
-
-* If the simple majority of the councillors accept the proposal, it is implemented. Otherwise, it is rejected.
-
----
-
-# Game timeline
-
-* Timeline:
-  - The mayor learns how many government $|G|$ and opposition $|O|$ legislators were elected
-  - The mayor proposes a policy vector $(r, g, \textbf{x})_M$
-  - The city council votes the proposal
-
-* If the council accepts, policy is implemented and game ends
-* Otherwise, the reversal policy is implemented
-  
-* _Reversal Policy:_ The budget is discounted by a factor $\delta \in (0,1)$, and one councillor is randomly selected to make an offer. If the offer is accepted, it is implemented. If rejected, the reversal policy stage restarts
 
 ---
 
@@ -828,6 +814,25 @@ knitr::include_graphics("images/fig2.png")
 --
 
 * **Any suggestions on how to tackle these questions are greatly appreciated! :)**
+
+---
+
+class: center, middle, inverse
+
+# Questions?
+
+---
+
+# Seminar discussion
+
+* Discuss the strengths and weaknesses of Brazil's open-list proportional representation system and the presence of a large number of political parties in Congress.
+
+* Discuss the role of coalitions in both Brazilian and British politics. How do coalition governments function in the two countries, and how do they impact the effectiveness of governance?
+
+* How do the experiences of minority and marginalized groups in politics differ between Brazil and the UK? Discuss the representation of these groups in both countries' political parties and legislatures.
+
+* What lessons can Brazil and the UK learn from each other's political systems in terms of promoting democratic stability, effective governance, and inclusive representation?
+
 
 ---
 
