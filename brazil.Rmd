@@ -849,6 +849,5 @@ class: center, middle, inverse
 * Danilo Freire:
 
   - [dfreire@lincoln.ac.uk](mailto:dfreire@lincoln.ac.uk)
-  - <http://danilofreire.github.io>
-  - <http://github.com/danilofreire/cl2022>
+  - <http://github.com/danilofreire/cl2023>
 
