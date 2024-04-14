@@ -1,9 +1,9 @@
-# Comparative Legislatures POL9006M 2022-23
+# Comparative Legislatures POL9006M 2023-202q
 
 This repository contains the slides for my presentation on the Brazilian
 legislative process for the "Comparative Legislatures" MA course at the
 [Universify of Lincoln](https://www.lincoln.ac.uk/course/polpolma/). The slides
-are available at: <http://danilofreire.github.io/cl2023/brazil.html>. 
+are available at: <http://danilofreire.github.io/cl2024/brazil.html>. 
 
 The recommended readings for the session are:
 

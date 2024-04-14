@@ -2,7 +2,7 @@
 title: "Brazil: Weak Parties but Strong Governance?"
 subtitle: ""
 author: "Danilo Freire<br><br>"
-date: '<font size="5">18<sup>th</sup> April 2023<br>Code: 493641</font><br><br><br> <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> <a href="http://github.com/danilofreire/cl2023" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2023</font></a>' 
+date: '<font size="5">16<sup>th</sup> April 2024<br>Code: 239789</font><br><br><br> <a href="mailto:dfreire@lincoln.ac.uk" target="_blank"><font size="4" color="white">dfreire\@lincoln.ac.uk</font></a></br> <a href="http://github.com/danilofreire/cl2024" target="_blank"><font size="4" color="white">github.com/danilofreire/cl2024</font></a>' 
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -17,6 +17,7 @@ output:
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 options(htmltools.dir.version = FALSE)
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
 list.of.packages <- c("remotes", "xaringan", "xaringanthemer")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
@@ -94,7 +95,7 @@ style_mono_accent(
 
 * Second half of the lecture:
 
-  - Our new research on legislature size and welfare provision in Brazil ([Mignozzetti, Cepaluni and Freire, 2022](https://github.com/umbertomig/legislature-size-welfare))
+  - Our new research on legislature size and welfare provision in Brazil ([Mignozzetti, Cepaluni and Freire, 2021](https://github.com/umbertomig/legislature-size-welfare))
 
   - Questions
 
@@ -533,7 +534,7 @@ class: left, middle, inverse
 <br>
 
 #### Umberto Mignozzetti (University of Califonia, San Diego)
-#### Gabriel Cepaluni (Lincoln)
+#### Gabriel Cepaluni (University of Notre Dame)
 #### Danilo Freire (Lincoln)
 
 ---
@@ -849,5 +850,5 @@ class: center, middle, inverse
 * Danilo Freire:
 
   - [dfreire@lincoln.ac.uk](mailto:dfreire@lincoln.ac.uk)
-  - <http://github.com/danilofreire/cl2023>
+  - <http://github.com/danilofreire/cl2024>
 
