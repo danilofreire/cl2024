@@ -1,4 +1,4 @@
-# Comparative Legislatures POL9006M 2023-202q
+# Comparative Legislatures POL9006M 2023-2024
 
 This repository contains the slides for my presentation on the Brazilian
 legislative process for the "Comparative Legislatures" MA course at the
